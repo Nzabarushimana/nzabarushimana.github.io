@@ -9,7 +9,6 @@ title: Home
   </div>
 
   <div class="hero-text">
-
     <p>
       I am a computational biologist and bioinformatics scientist trained across chemistry, molecular biology, biostatistics, and computational biology.
     </p>
