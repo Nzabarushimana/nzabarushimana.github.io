@@ -18,7 +18,7 @@ title: Home
     </p>
 
     <p>
-      I bring experimental grounding and computational depth across large-scale NGS, multi-omics analysis, statistical modeling, machine learning, method development, and reproducible scientific computing.
+      My work integrates experimental context, end-to-end NGS study design, multi-omics analysis, statistical modeling, computational method development, and reproducible computing to generate interpretable insight into disease biology.
     </p>
   </div>
 </div>
