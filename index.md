@@ -28,7 +28,6 @@ I am a computational biologist and bioinformatics scientist with academic traini
 My earlier bench-based research in molecular biology, epigenetics, cancer biology, radiation biology, inflammatory signaling, and disease mechanisms gave me practical experience with experimental design, assay variability, molecular readouts, biological data generation, and mechanistic interpretation. That foundation remains central to how I approach computational work: I do not view analysis as simply processing data, but as a way to connect molecular measurements back to biological mechanisms and disease-relevant questions.
 
 Across graduate and postdoctoral work, I have developed and applied computational methods, statistical models, machine-learning approaches, and reproducible workflows to large-scale NGS, multi-omic, clinical cohort, and high-dimensional molecular datasets. My goal is to generate interpretable results that help explain disease biology, identify molecular signatures and biomarkers, support patient stratification, and produce hypotheses that can be tested experimentally or clinically.
-
 ## Scientific & Computational Expertise
 
 <div class="card-grid">
@@ -36,42 +35,42 @@ Across graduate and postdoctoral work, I have developed and applied computationa
   <div class="card">
     <h3>Mechanism-Focused Disease Biology</h3>
     <p>
-      I use molecular, microbial, epigenetic, inflammatory, and clinical data to study disease-associated biological states and connect computational findings to mechanisms, pathways, and experimentally testable hypotheses.
+      Disease-associated molecular patterns are most useful when they can be connected back to biological mechanisms. My work examines how microbial, molecular, epigenetic, inflammatory, functional, and clinical signals relate to disease states, with the goal of identifying interpretable mechanisms and testable biological hypotheses rather than isolated statistical associations.
     </p>
   </div>
 
   <div class="card">
     <h3>Human Cohort Multi-Omics</h3>
     <p>
-      I analyze large-scale human cohort datasets that combine molecular measurements with clinical context, using these data to identify disease-associated signatures, biomarkers, and biologically interpretable patterns.
+      Human disease is rarely explained by a single data type. My research integrates large-scale NGS, metagenomic, metatranscriptomic, viral, functional, metabolomics-linked, and clinical cohort data to identify disease-associated molecular signatures and biologically meaningful patterns across complex human studies.
     </p>
   </div>
 
   <div class="card">
     <h3>Computational Method Development</h3>
     <p>
-      I develop computational approaches for biological questions that are not fully addressed by standard workflows. One example is WAAFLE, a method for profiling lateral gene transfer directly from metagenomic data, developed through problem formulation, algorithm design, validation, and biological interpretation.
+      Some biological questions require methods that standard workflows cannot answer. My method-development work has focused on defining the biological problem, designing and validating computational approaches, and interpreting results in context, including co-development of WAAFLE for profiling lateral gene transfer directly from metagenomic data.
     </p>
   </div>
 
   <div class="card">
     <h3>Biomarkers &amp; Patient Stratification</h3>
     <p>
-      I use statistical modeling, feature selection, and machine learning to identify interpretable disease signatures and patient-relevant biological patterns, including a 21-species scoring index for active Clostridioides difficile infection and post-FMT monitoring.
+      Translational analysis requires signatures that are interpretable, reproducible, and connected to patient-relevant biology. In a first-author Gut Microbes study, I analyzed 10,000+ clinical fecal metagenomes and developed a 21-species scoring index for active Clostridioides difficile infection and post-FMT monitoring.
     </p>
   </div>
 
   <div class="card">
     <h3>Experimental Context &amp; Biological Interpretation</h3>
     <p>
-      My bench-based research in molecular biology, epigenetics, radiation biology, cancer biology, inflammatory signaling, and lung disease helps me interpret computational results in light of experimental design, assay variability, molecular readouts, and biological mechanism.
+      Computational results depend on how biological data are generated. Earlier bench-based research in molecular biology, epigenetics, radiation biology, cancer biology, inflammatory signaling, and lung disease shaped how I evaluate assay variability, experimental design, molecular readouts, and mechanistic plausibility.
     </p>
   </div>
 
   <div class="card">
     <h3>Reproducible Computational Workflows</h3>
     <p>
-      I build R, Python, Bash, Linux/Unix, and Git-based workflows for quality control, statistical modeling, machine learning, data integration, visualization, documentation, and scalable analysis in high-performance computing environments.
+      Reliable scientific conclusions require reproducible analysis. My work uses R, Python, Bash, Linux/Unix, Git, workflow automation, quality control, statistical modeling, machine learning, visualization, documentation, and high-performance computing to move from raw data to interpretable results.
     </p>
   </div>
 
