@@ -51,7 +51,7 @@ title: Home
 <div class="card">
   <h3>Statistical Modeling &amp; Applied Predictive Learning</h3>
   <p>
-    Predictive and statistical modeling for high-dimensional biological and clinical datasets, including problem formulation, feature representation, disease-state classification, biomarker scoring, cohort stratification, confounder adjustment, model validation, performance evaluation, and interpretation of predictive features in biological context.
+  Predictive and statistical modeling for biological data, spanning problem formulation, feature representation, classification, biomarker scoring, validation, and biological interpretation.
   </p>
 </div>
   <div class="card">
