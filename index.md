@@ -3,11 +3,13 @@ layout: default
 title: Home
 ---
 
-<section class="hero">
-  <img src="/assets/img/profile.jpg" alt="Etienne Nzabarushimana" class="profile-photo">
+<div class="hero">
+  <div class="hero-photo">
+    <img src="assets/img/profile.jpg" alt="Etienne Nzabarushimana">
+  </div>
 
   <div class="hero-text">
-    <h1>Computational Biologist & Bioinformatics Scientist</h1>
+    <h1>Computational Biologist &amp; Bioinformatics Scientist</h1>
 
     <p>
       I develop integrative computational approaches to turn complex molecular and clinical datasets into biologically interpretable insight. My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, and disease-mechanism interpretation across human cohort and translational research settings.
@@ -17,7 +19,7 @@ title: Home
       I am especially interested in roles at the interface of computational biology, multi-omics, biomarker discovery, patient stratification, therapeutic hypothesis generation, and cross-functional collaboration with experimental, clinical, and data science teams.
     </p>
   </div>
-</section>
+</div>
 
 ## Translational Computational Biology
 
