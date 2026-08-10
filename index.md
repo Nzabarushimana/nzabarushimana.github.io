@@ -9,16 +9,18 @@ title: Home
   </div>
 
   <div class="hero-text">
+    <h1>Etienne Nzabarushimana, PhD, MPH</h1>
+
     <p>
-      I am a bioinformatics scientist and computational biologist developing integrative computational methods and models to elucidate how genomic, molecular, microbial, and cellular systems interact to shape human health and disease.
+      I am a computational biologist and bioinformatics scientist with 10+ years of experience translating complex molecular, clinical, and high-dimensional biological datasets into interpretable scientific insight.
     </p>
 
     <p>
-      My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, and disease-mechanism interpretation across human cohort and translational research settings.
+      My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, disease-mechanism interpretation, and computational method development across human cohort and translational research settings.
     </p>
 
     <p>
-      My goal is to translate computational discoveries into precision diagnostics, patient stratification strategies, target-relevant biological insights, therapeutic hypotheses, and testable mechanisms that can support therapeutic development and improve patient outcomes.
+      I bring a biology-grounded computational approach that combines rigorous data analysis, reproducible workflow development, experimental awareness, and cross-functional communication to support biomarker discovery, patient stratification, therapeutic hypothesis generation, and mechanism-focused decision-making.
     </p>
   </div>
 </div>
@@ -63,15 +65,30 @@ My earlier bench-based research at the University of Arkansas for Medical Scienc
     </p>
   </div>
 
+  <div class="card">
+    <h3>Computational Method Development</h3>
+    <p>
+      Design and implementation of reproducible computational approaches, workflows, and analysis frameworks for large-scale sequencing, multi-omics, and high-dimensional biological datasets.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Cross-Functional Collaboration</h3>
+    <p>
+      Partnership with clinical, experimental, computational, and data science teams to refine study design, interpret complex results, communicate findings, and support decision-oriented research.
+    </p>
+  </div>
+
 </div>
 
 ## Selected Areas of Focus
 
 - Translational computational biology and bioinformatics
 - Multi-omics integration and molecular signature discovery
-- Biomarker discovery and patient stratification
-- Large-scale NGS and high-dimensional biological data analysis
-- Machine learning, statistical modeling, and interpretable biological modeling
-- Host-microbiome interactions and disease mechanisms
-- Reproducible workflows, data quality control, and scientific visualization
-- Cross-functional collaboration with clinical, experimental, and computational teams
+- Biomarker discovery, patient stratification, and therapeutic hypothesis generation
+- Large-scale NGS, clinical cohort, and high-dimensional biological data analysis
+- Statistical modeling, machine learning, feature selection, and interpretable biological modeling
+- Molecular biology, disease mechanisms, host-microbiome interactions, and pathway-level interpretation
+- Reproducible workflows, data quality control, documentation, and scientific visualization
+- Cross-functional collaboration with experimental, clinical, computational, and data science teams
+- Mentoring, scientific communication, and end-to-end ownership of computational workstreams
