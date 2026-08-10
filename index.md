@@ -10,61 +10,52 @@ title: Home
 
   <div class="hero-text">
     <h1>Etienne Nzabarushimana, PhD, MPH</h1>
-    <p class="hero-subtitle">
-      Computational Biologist &amp; Bioinformatics Scientist
+
+    <p>
+      I am a bioinformatics scientist and computational biologist developing integrative computational methods and models to elucidate how genomic, molecular, microbial, and cellular systems interact to shape human health and disease.
     </p>
 
     <p>
-      I develop integrative computational approaches to turn complex molecular and clinical datasets into biologically interpretable insight. My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, and disease-mechanism interpretation across human cohort and translational research settings.
+      My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, and disease-mechanism interpretation across human cohort and translational research settings.
     </p>
 
     <p>
-      I am especially interested in roles at the interface of computational biology, multi-omics, biomarker discovery, patient stratification, therapeutic hypothesis generation, and cross-functional collaboration with experimental, clinical, and data science teams.
+      My goal is to translate computational discoveries into precision diagnostics, patient stratification strategies, target-relevant biological insights, therapeutic hypotheses, and testable mechanisms that can support therapeutic development and improve patient outcomes.
     </p>
   </div>
 </div>
-
-## About
-
-I am a bioinformatics scientist and computational biologist developing integrative computational methods and models to elucidate how genomic, molecular, microbial, and cellular systems interact to shape human health and disease. My research combines multi-omic integration, machine learning, and network-based modeling to identify biomarkers, molecular signatures, disease mechanisms, and therapeutic hypotheses across large-scale clinical cohorts and multi-modal high-throughput molecular data.
-
-My goal is to translate computational discoveries into precision diagnostics, patient stratification strategies, target-relevant biological insights, and testable mechanisms that can support therapeutic development and improve patient outcomes.
 
 ## Translational Focus
 
 <div class="card-grid">
 
-<div class="card">
+  <div class="card">
+    <h3>Multi-Omics Integration</h3>
+    <p>
+      Integration of NGS, metagenomic, metatranscriptomic, viral, functional, metabolomics-linked, and clinical cohort data to identify biologically meaningful disease-associated patterns.
+    </p>
+  </div>
 
-### Multi-Omics Integration
+  <div class="card">
+    <h3>Biomarker Discovery</h3>
+    <p>
+      Development of interpretable molecular signatures, disease-state classifiers, and patient-relevant biological signals across large-scale clinical and translational datasets.
+    </p>
+  </div>
 
-Integration of NGS, metagenomic, metatranscriptomic, viral, functional, metabolomics-linked, and clinical cohort data to identify biologically meaningful disease-associated patterns.
+  <div class="card">
+    <h3>Machine Learning &amp; Modeling</h3>
+    <p>
+      Application of statistical modeling, machine learning, feature selection, confounder-aware analysis, and network-based approaches to complex biological data.
+    </p>
+  </div>
 
-</div>
-
-<div class="card">
-
-### Biomarker Discovery
-
-Development of interpretable molecular signatures, disease-state classifiers, and patient-relevant biological signals across large-scale clinical and translational datasets.
-
-</div>
-
-<div class="card">
-
-### Machine Learning & Modeling
-
-Application of statistical modeling, machine learning, feature selection, confounder-aware analysis, and network-based approaches to complex biological data.
-
-</div>
-
-<div class="card">
-
-### Biological Interpretation
-
-Mechanism-focused interpretation of computational results using molecular biology, disease biology, pathway-level reasoning, and experimental context.
-
-</div>
+  <div class="card">
+    <h3>Biological Interpretation</h3>
+    <p>
+      Mechanism-focused interpretation of computational results using molecular biology, disease biology, pathway-level reasoning, and experimental context.
+    </p>
+  </div>
 
 </div>
 
