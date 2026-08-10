@@ -30,14 +30,14 @@ title: Home
   <div class="card">
     <h3>Molecular Mechanisms &amp; Disease Biology</h3>
     <p>
-      Interpreting molecular data in the context of pathways, gene regulation, cellular function, biochemical processes, evolution, and disease mechanism.
+      Strong foundation in molecular biology, with experience interpreting molecular data in the context of pathways, gene regulation, cellular function, biochemical processes, evolution, and disease mechanisms.
     </p>
   </div>
 
   <div class="card">
     <h3>Molecular Assays &amp; Experimental Design</h3>
     <p>
-      Understanding how study design, sample handling, assay behavior, biological controls, and technical variability shape what molecular data can support.
+    Experience with study design, sample handling, biochemical assays, biological controls, and technical variability in molecular data generation and interpretation.
     </p>
   </div>
 
@@ -49,7 +49,7 @@ title: Home
 </div>
 
 <div class="card">
-  <h3>Statistical Modeling &amp; Applied Predictive Learning</h3>
+  <h3>Statistical Modeling &amp; Machine Learning</h3>
   <p>
   Predictive and statistical modeling for biological data, spanning problem formulation, feature representation, classification, biomarker scoring, validation, and biological interpretation.
   </p>
@@ -57,10 +57,15 @@ title: Home
   <div class="card">
     <h3>Computational Method Development</h3>
     <p>
-      Developing computational analytical methods and approaches and reproducible R, Python, Bash, Linux/Unix, and Git-based workflows for complex biological data.
+      Development of computational methods, analysis frameworks, and reproducible scientific workflows that turn complex biological and multi-omics data into reliable, interpretable, actionable insights.
     </p>
   </div>
-
+<div class="card">
+  <h3>Large Cohorts &amp; Clinical Study Evaluation</h3>
+  <p>
+    Analysis of large human cohorts and clinical study datasets to evaluate molecular patterns, disease associations, biomarker signals, patient subgroups, treatment-relevant features, and sources of biological and technical variability.
+  </p>
+</div>
   <div class="card">
     <h3>Biomarker Discovery &amp; Patient Stratification</h3>
     <p>
