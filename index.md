@@ -49,12 +49,11 @@ title: Home
 </div>
 
 <div class="card">
-  <h3>Statistical Learning &amp; Predictive Modeling</h3>
+  <h3>Statistical Modeling &amp; Applied Predictive Learning</h3>
   <p>
-    Statistical learning and machine-learning approaches for high-dimensional biological and clinical datasets, including differential and association testing, multivariable modeling, feature selection, disease-state classification, biomarker scoring, patient stratification, confounder analysis, model validation, and uncertainty interpretation.
+    Predictive and statistical modeling for high-dimensional biological and clinical datasets, including problem formulation, feature representation, disease-state classification, biomarker scoring, cohort stratification, confounder adjustment, model validation, performance evaluation, and interpretation of predictive features in biological context.
   </p>
 </div>
-
   <div class="card">
     <h3>Computational Method Development</h3>
     <p>
