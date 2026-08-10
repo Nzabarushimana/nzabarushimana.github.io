@@ -23,6 +23,14 @@ title: Home
   </div>
 </div>
 
+## Scientific Background
+
+I am a Ph.D.-trained computational biologist and bioinformatics scientist with formal training across bioinformatics, computational biology, biostatistics, molecular biology, and translational research. I completed my Ph.D. in Bioinformatics and Computational Biology at Indiana University Bloomington, graduate training in biostatistics at the University of Arkansas for Medical Sciences, and postdoctoral research in translational computational biology, multi-omics integration, molecular signature discovery, and computational method development at Massachusetts General Hospital, Harvard Medical School, and the Harvard T.H. Chan School of Public Health.
+
+My research has focused on deriving biologically interpretable insight from large-scale NGS, multi-omic, clinical cohort, and high-dimensional molecular datasets. Across graduate and postdoctoral work, I have developed and applied computational methods, statistical models, machine-learning approaches, and reproducible workflows to identify molecular signatures, biomarkers, disease-associated mechanisms, and patient-relevant biological patterns. This work has been grounded in cross-disciplinary collaboration with clinicians, epidemiologists, computational scientists, molecular biologists, and external research teams.
+
+My earlier bench-based research at the University of Arkansas for Medical Sciences in molecular biology, epigenetics, cancer biology, radiation biology, inflammatory signaling, and disease mechanisms gave me practical insight into biological data generation, experimental design, assay variability, and mechanistic interpretation. That foundation continues to shape my computational work: I approach data analysis not as an isolated technical exercise, but as a way to connect molecular measurements to biological mechanisms, translational hypotheses, and clinically meaningful questions.
+
 ## Translational Focus
 
 <div class="card-grid">
