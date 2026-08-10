@@ -28,49 +28,49 @@ I am a computational biologist and bioinformatics scientist with academic traini
 My earlier bench-based research in molecular biology, epigenetics, cancer biology, radiation biology, inflammatory signaling, and disease mechanisms gave me practical experience with experimental design, assay variability, molecular readouts, biological data generation, and mechanistic interpretation. That foundation remains central to how I approach computational work: I do not view analysis as simply processing data, but as a way to connect molecular measurements back to biological mechanisms and disease-relevant questions.
 
 Across graduate and postdoctoral work, I have developed and applied computational methods, statistical models, machine-learning approaches, and reproducible workflows to large-scale NGS, multi-omic, clinical cohort, and high-dimensional molecular datasets. My goal is to generate interpretable results that help explain disease biology, identify molecular signatures and biomarkers, support patient stratification, and produce hypotheses that can be tested experimentally or clinically.
-## Scientific & Computational Expertise
+## Scientific Approach & Computational Expertise
 
 <div class="card-grid">
 
   <div class="card">
-    <h3>Mechanism-Focused Disease Biology</h3>
+    <h3>Biological Mechanism &amp; Disease Interpretation</h3>
     <p>
-      Disease-associated molecular patterns are most useful when they can be connected back to biological mechanisms. My work examines how microbial, molecular, epigenetic, inflammatory, functional, and clinical signals relate to disease states, with the goal of identifying interpretable mechanisms and testable biological hypotheses rather than isolated statistical associations.
+      Disease-focused computational work is strongest when molecular signals are interpreted through biology, not only statistics. Training across chemistry, biochemistry, molecular biology, biostatistics, bioinformatics, and computational biology supports interpretation of data in the context of pathways, gene regulation, cellular processes, biochemical function, evolutionary pressure, and disease mechanism.
     </p>
   </div>
 
   <div class="card">
-    <h3>Human Cohort Multi-Omics</h3>
+    <h3>Experimental Reasoning &amp; Assay Interpretation</h3>
     <p>
-      Human disease is rarely explained by a single data type. My research integrates large-scale NGS, metagenomic, metatranscriptomic, viral, functional, metabolomics-linked, and clinical cohort data to identify disease-associated molecular signatures and biologically meaningful patterns across complex human studies.
+      Experimental data are shaped by how samples are collected, processed, measured, normalized, and controlled. Hands-on molecular and cellular biology research provides firsthand experience with assay behavior, biological and technical variability, molecular readouts, protocol limitations, and the kinds of conclusions a given experimental design can or cannot support.
     </p>
   </div>
 
   <div class="card">
-    <h3>Computational Method Development</h3>
+    <h3>Human Cohorts &amp; Molecular Phenotypes</h3>
     <p>
-      Some biological questions require methods that standard workflows cannot answer. My method-development work has focused on defining the biological problem, designing and validating computational approaches, and interpreting results in context, including co-development of WAAFLE for profiling lateral gene transfer directly from metagenomic data.
+      Human disease studies require careful connection between molecular measurements, cohort structure, clinical context, and biological heterogeneity. Experience with large-scale NGS, metagenomic, metatranscriptomic, viral, functional, metabolomics-linked, and clinical cohort data supports analysis of disease-associated molecular phenotypes across complex human datasets.
     </p>
   </div>
 
   <div class="card">
-    <h3>Biomarkers &amp; Patient Stratification</h3>
+    <h3>Statistical Modeling &amp; Multi-Omics Integration</h3>
     <p>
-      Translational analysis requires signatures that are interpretable, reproducible, and connected to patient-relevant biology. In a first-author Gut Microbes study, I analyzed 10,000+ clinical fecal metagenomes and developed a 21-species scoring index for active Clostridioides difficile infection and post-FMT monitoring.
+      High-dimensional biological data require models that reflect both the question and the structure of the data. Graduate training in biostatistics and computational biology supports confounder-aware analysis, feature selection, disease classification, cohort stratification, model evaluation, uncertainty assessment, and integration of molecular data with clinical and biological context.
     </p>
   </div>
 
   <div class="card">
-    <h3>Experimental Context &amp; Biological Interpretation</h3>
+    <h3>Computational Methods &amp; Reproducible Workflows</h3>
     <p>
-      Computational results depend on how biological data are generated. Earlier bench-based research in molecular biology, epigenetics, radiation biology, cancer biology, inflammatory signaling, and lung disease shaped how I evaluate assay variability, experimental design, molecular readouts, and mechanistic plausibility.
+      Some biological questions require more than standard pipelines. Experience developing algorithms, analysis frameworks, and reproducible R, Python, Bash, Linux/Unix, and Git-based workflows supports quality control, scalable analysis, workflow documentation, data integration, visualization, and sequencing-data interpretation across evolving research questions.
     </p>
   </div>
 
   <div class="card">
-    <h3>Reproducible Computational Workflows</h3>
+    <h3>Biomarkers &amp; Translational Insight</h3>
     <p>
-      Reliable scientific conclusions require reproducible analysis. My work uses R, Python, Bash, Linux/Unix, Git, workflow automation, quality control, statistical modeling, machine learning, visualization, documentation, and high-performance computing to move from raw data to interpretable results.
+      Translational value depends on whether molecular patterns can be interpreted, reproduced, and connected to patient-relevant biology. Research outputs include disease-associated molecular signatures, microbial and viral patterns, interpretable scoring models, biomarker-relevant findings, manuscripts, presentations, and collaborative analyses that help move complex data toward biological and clinical meaning.
     </p>
   </div>
 
