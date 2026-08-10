@@ -9,7 +9,10 @@ title: Home
   </div>
 
   <div class="hero-text">
-    <h1>Computational Biologist &amp; Bioinformatics Scientist</h1>
+    <h1>Etienne Nzabarushimana, PhD, MPH</h1>
+    <p class="hero-subtitle">
+      Computational Biologist &amp; Bioinformatics Scientist
+    </p>
 
     <p>
       I develop integrative computational approaches to turn complex molecular and clinical datasets into biologically interpretable insight. My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, and disease-mechanism interpretation across human cohort and translational research settings.
@@ -21,11 +24,13 @@ title: Home
   </div>
 </div>
 
-## Translational Computational Biology
+## About
 
 I am a bioinformatics scientist and computational biologist developing integrative computational methods and models to elucidate how genomic, molecular, microbial, and cellular systems interact to shape human health and disease. My research combines multi-omic integration, machine learning, and network-based modeling to identify biomarkers, molecular signatures, disease mechanisms, and therapeutic hypotheses across large-scale clinical cohorts and multi-modal high-throughput molecular data.
 
 My goal is to translate computational discoveries into precision diagnostics, patient stratification strategies, target-relevant biological insights, and testable mechanisms that can support therapeutic development and improve patient outcomes.
+
+## Translational Focus
 
 <div class="card-grid">
 
@@ -73,9 +78,3 @@ Mechanism-focused interpretation of computational results using molecular biolog
 - Host-microbiome interactions and disease mechanisms
 - Reproducible workflows, data quality control, and scientific visualization
 - Cross-functional collaboration with clinical, experimental, and computational teams
-
-<div class="callout">
-
-I bring a biology-grounded computational approach, combining hands-on experience with molecular and NGS data generation, large-scale computational analysis, reproducible workflow development, and scientific communication across interdisciplinary teams.
-
-</div>
