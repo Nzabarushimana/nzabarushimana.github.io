@@ -1,0 +1,24 @@
+title: Etienne Nzabarushimana, PhD, MPH
+description: Computational Biologist | Bioinformatics Scientist | Multi-Omics | Machine Learning | Translational Biology
+url: "https://nzabarushimana.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research & Translational Focus
+    url: /research-translational-focus/
+  - title: Selected Projects
+    url: /selected-projects/
+  - title: Publications
+    url: /publications/
+  - title: Skills
+    url: /skills/
+  - title: Leadership & Teaching
+    url: /leadership-teaching/
+  - title: Contact
+    url: /contact/
