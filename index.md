@@ -6,7 +6,6 @@ title: Home
 # Etienne Nzabarushimana, PhD, MPH
 
 **Computational Biologist | Bioinformatics Scientist | Multi-Omics | Machine Learning | Translational Biology**
-<img src="/assets/img/profile.jpg" alt="Etienne Nzabarushimana" class="profile-photo">
 I develop integrative computational methods and models to understand how genomic, molecular, microbial, and cellular systems interact to shape human health and disease. My work combines multi-omic integration, machine learning, statistical modeling, and network-based interpretation to identify biomarkers, molecular signatures, disease mechanisms, and therapeutic hypotheses across large-scale clinical cohorts and high-throughput molecular datasets.
 
 My goal is to translate computational discoveries into precision diagnostics, patient stratification strategies, target-relevant biological insights, and testable mechanisms that can support therapeutic development and improve patient outcomes.
