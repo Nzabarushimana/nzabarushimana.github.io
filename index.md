@@ -34,49 +34,48 @@ Across graduate and postdoctoral work, I have developed and applied computationa
 <div class="card-grid">
 
   <div class="card">
-    <h3>Biological and Molecular Foundation</h3>
+    <h3>Mechanism-Focused Disease Biology</h3>
     <p>
-      Training in chemistry, biochemistry, molecular biology, and experimental disease biology gives me a strong foundation for interpreting molecular data in the context of mechanisms, pathways, assays, and biological systems.
+      I use molecular, microbial, epigenetic, inflammatory, and clinical data to study disease-associated biological states and connect computational findings to mechanisms, pathways, and experimentally testable hypotheses.
     </p>
   </div>
 
   <div class="card">
-    <h3>Bench-to-Data Perspective</h3>
+    <h3>Human Cohort Multi-Omics</h3>
     <p>
-      Earlier bench-based research in epigenetics, radiation biology, cancer biology, inflammatory signaling, and disease mechanisms shaped how I think about experimental design, assay variability, biological readouts, and the limits of real-world data.
+      I analyze large-scale human cohort datasets that combine molecular measurements with clinical context, using these data to identify disease-associated signatures, biomarkers, and biologically interpretable patterns.
     </p>
   </div>
 
   <div class="card">
-    <h3>Biostatistics and Quantitative Reasoning</h3>
+    <h3>Computational Method Development</h3>
     <p>
-      Graduate training in biostatistics supports my approach to study design, cohort analysis, confounder-aware modeling, statistical interpretation, model evaluation, and careful communication of uncertainty.
+      I develop computational approaches for biological questions that are not fully addressed by standard workflows. One example is WAAFLE, a method for profiling lateral gene transfer directly from metagenomic data, developed through problem formulation, algorithm design, validation, and biological interpretation.
     </p>
   </div>
 
   <div class="card">
-    <h3>Bioinformatics and Computational Biology</h3>
+    <h3>Biomarkers &amp; Patient Stratification</h3>
     <p>
-      Ph.D. and postdoctoral work in bioinformatics and computational biology focused on large-scale NGS, metagenomics, metatranscriptomics, multi-omics integration, molecular signature discovery, and computational method development.
+      I use statistical modeling, feature selection, and machine learning to identify interpretable disease signatures and patient-relevant biological patterns, including a 21-species scoring index for active Clostridioides difficile infection and post-FMT monitoring.
     </p>
   </div>
 
   <div class="card">
-    <h3>Disease Mechanisms and Biomarkers</h3>
+    <h3>Experimental Context &amp; Biological Interpretation</h3>
     <p>
-      I use computational analysis to connect molecular features to disease states, biological mechanisms, biomarkers, patient-relevant patterns, and testable hypotheses for translational research.
+      My bench-based research in molecular biology, epigenetics, radiation biology, cancer biology, inflammatory signaling, and lung disease helps me interpret computational results in light of experimental design, assay variability, molecular readouts, and biological mechanism.
     </p>
   </div>
 
   <div class="card">
-    <h3>Reproducible Scientific Computing</h3>
+    <h3>Reproducible Computational Workflows</h3>
     <p>
-      I build R, Python, Bash, Linux/Unix, and Git-based workflows for quality control, data integration, statistical analysis, machine learning, visualization, documentation, and scalable computation.
+      I build R, Python, Bash, Linux/Unix, and Git-based workflows for quality control, statistical modeling, machine learning, data integration, visualization, documentation, and scalable analysis in high-performance computing environments.
     </p>
   </div>
 
 </div>
-
 ## Selected Areas of Focus
 
 - Biology-grounded computational biology and bioinformatics
