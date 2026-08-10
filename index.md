@@ -9,7 +9,7 @@ title: Home
   </div>
 
   <div class="hero-text">
-    <h1>Computational Biologist &amp; Bioinformatics Scientist &amp; Data Scientist</h1>
+    <h1>Computational Biologist &amp; Bioinformatics Scientist</h1>
 
     <p>
       I develop integrative computational approaches to turn complex molecular and clinical datasets into biologically interpretable insight. My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, and disease-mechanism interpretation across human cohort and translational research settings.
