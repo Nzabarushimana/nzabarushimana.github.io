@@ -9,7 +9,7 @@ title: Home
   </div>
 
   <div class="hero-text">
-    <h1>Etienne Nzabarushimana, PhD, MPH</h1>
+    <h2>About me</h2>
 
     <p>
       I am a bioinformatics scientist and computational biologist developing integrative computational methods and models to elucidate how genomic, molecular, microbial, and cellular systems interact to shape human health and disease.
