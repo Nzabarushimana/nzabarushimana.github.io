@@ -9,72 +9,69 @@ title: Home
   </div>
 
   <div class="hero-text">
-
     <p>
-      I am a computational biologist and bioinformatics scientist with 10+ years of experience translating complex molecular, clinical, and high-dimensional biological datasets into interpretable scientific insight.
+      My training began in chemistry, biochemistry, and molecular biology, where I learned to think about disease from the level of molecules, cells, pathways, and experimental systems. I later trained in biostatistics, bioinformatics, and computational biology to study those questions at the scale of modern molecular and clinical data.
     </p>
-
     <p>
-      My work spans large-scale NGS, multi-omics integration, molecular signature discovery, machine learning, biomarker analysis, disease-mechanism interpretation, and computational method development across human cohort and translational research settings.
+      I am interested in how biological systems break down in disease: which molecular signals change, which mechanisms are involved, why patients differ, and how computational analysis can help identify biomarkers, patient subgroups, and testable therapeutic hypotheses.
     </p>
-
     <p>
-      I bring a biology-grounded computational approach that combines rigorous data analysis, reproducible workflow development, experimental awareness, and cross-functional communication to support biomarker discovery, patient stratification, therapeutic hypothesis generation, and mechanism-focused decision-making.
+      My work combines large-scale NGS, multi-omics integration, molecular signature discovery, statistical modeling, machine learning, computational method development, and mechanism-focused interpretation across human cohort and translational research settings.
     </p>
   </div>
 </div>
 
 ## Scientific Background
 
-I am a Ph.D.-trained computational biologist and bioinformatics scientist with formal training across bioinformatics, computational biology, biostatistics, molecular biology, and translational research. I completed my Ph.D. in Bioinformatics and Computational Biology at Indiana University Bloomington, graduate training in biostatistics at the University of Arkansas for Medical Sciences, and postdoctoral research in translational computational biology, multi-omics integration, molecular signature discovery, and computational method development at Massachusetts General Hospital, Harvard Medical School, and the Harvard T.H. Chan School of Public Health.
+I am a computational biologist and bioinformatics scientist with academic training across chemistry, biochemistry, molecular biology, biostatistics, bioinformatics, and computational biology. I earned my B.A. in Chemistry at Hendrix College, completed graduate training in biostatistics at the University of Arkansas for Medical Sciences, and completed my Ph.D. in Bioinformatics and Computational Biology at Indiana University Bloomington. I then pursued postdoctoral research in translational computational biology, multi-omics integration, molecular signature discovery, and computational method development at Massachusetts General Hospital, Harvard Medical School, and the Harvard T.H. Chan School of Public Health.
 
-My research has focused on deriving biologically interpretable insight from large-scale NGS, multi-omic, clinical cohort, and high-dimensional molecular datasets. Across graduate and postdoctoral work, I have developed and applied computational methods, statistical models, machine-learning approaches, and reproducible workflows to identify molecular signatures, biomarkers, disease-associated mechanisms, and patient-relevant biological patterns. This work has been grounded in cross-disciplinary collaboration with clinicians, epidemiologists, computational scientists, molecular biologists, and external research teams.
+My earlier bench-based research in molecular biology, epigenetics, cancer biology, radiation biology, inflammatory signaling, and disease mechanisms gave me practical experience with experimental design, assay variability, molecular readouts, biological data generation, and mechanistic interpretation. That foundation remains central to how I approach computational work: I do not view analysis as simply processing data, but as a way to connect molecular measurements back to biological mechanisms and disease-relevant questions.
 
-My earlier bench-based research at the University of Arkansas for Medical Sciences in molecular biology, epigenetics, cancer biology, radiation biology, inflammatory signaling, and disease mechanisms gave me practical insight into biological data generation, experimental design, assay variability, and mechanistic interpretation. That foundation continues to shape my computational work: I approach data analysis not as an isolated technical exercise, but as a way to connect molecular measurements to biological mechanisms, translational hypotheses, and clinically meaningful questions.
+Across graduate and postdoctoral work, I have developed and applied computational methods, statistical models, machine-learning approaches, and reproducible workflows to large-scale NGS, multi-omic, clinical cohort, and high-dimensional molecular datasets. My goal is to generate interpretable results that help explain disease biology, identify molecular signatures and biomarkers, support patient stratification, and produce hypotheses that can be tested experimentally or clinically.
 
-## Translational Focus
+## Scientific & Computational Expertise
 
 <div class="card-grid">
 
   <div class="card">
-    <h3>Multi-Omics Integration</h3>
+    <h3>Biological and Molecular Foundation</h3>
     <p>
-      Integration of NGS, metagenomic, metatranscriptomic, viral, functional, metabolomics-linked, and clinical cohort data to identify biologically meaningful disease-associated patterns.
+      Training in chemistry, biochemistry, molecular biology, and experimental disease biology gives me a strong foundation for interpreting molecular data in the context of mechanisms, pathways, assays, and biological systems.
     </p>
   </div>
 
   <div class="card">
-    <h3>Biomarker Discovery</h3>
+    <h3>Bench-to-Data Perspective</h3>
     <p>
-      Development of interpretable molecular signatures, disease-state classifiers, and patient-relevant biological signals across large-scale clinical and translational datasets.
+      Earlier bench-based research in epigenetics, radiation biology, cancer biology, inflammatory signaling, and disease mechanisms shaped how I think about experimental design, assay variability, biological readouts, and the limits of real-world data.
     </p>
   </div>
 
   <div class="card">
-    <h3>Machine Learning &amp; Modeling</h3>
+    <h3>Biostatistics and Quantitative Reasoning</h3>
     <p>
-      Application of statistical modeling, machine learning, feature selection, confounder-aware analysis, and network-based approaches to complex biological data.
+      Graduate training in biostatistics supports my approach to study design, cohort analysis, confounder-aware modeling, statistical interpretation, model evaluation, and careful communication of uncertainty.
     </p>
   </div>
 
   <div class="card">
-    <h3>Biological Interpretation</h3>
+    <h3>Bioinformatics and Computational Biology</h3>
     <p>
-      Mechanism-focused interpretation of computational results using molecular biology, disease biology, pathway-level reasoning, and experimental context.
+      Ph.D. and postdoctoral work in bioinformatics and computational biology focused on large-scale NGS, metagenomics, metatranscriptomics, multi-omics integration, molecular signature discovery, and computational method development.
     </p>
   </div>
 
   <div class="card">
-    <h3>Computational Method Development</h3>
+    <h3>Disease Mechanisms and Biomarkers</h3>
     <p>
-      Design and implementation of reproducible computational approaches, workflows, and analysis frameworks for large-scale sequencing, multi-omics, and high-dimensional biological datasets.
+      I use computational analysis to connect molecular features to disease states, biological mechanisms, biomarkers, patient-relevant patterns, and testable hypotheses for translational research.
     </p>
   </div>
 
   <div class="card">
-    <h3>Cross-Functional Collaboration</h3>
+    <h3>Reproducible Scientific Computing</h3>
     <p>
-      Partnership with clinical, experimental, computational, and data science teams to refine study design, interpret complex results, communicate findings, and support decision-oriented research.
+      I build R, Python, Bash, Linux/Unix, and Git-based workflows for quality control, data integration, statistical analysis, machine learning, visualization, documentation, and scalable computation.
     </p>
   </div>
 
@@ -82,12 +79,12 @@ My earlier bench-based research at the University of Arkansas for Medical Scienc
 
 ## Selected Areas of Focus
 
-- Translational computational biology and bioinformatics
-- Multi-omics integration and molecular signature discovery
-- Biomarker discovery, patient stratification, and therapeutic hypothesis generation
-- Large-scale NGS, clinical cohort, and high-dimensional biological data analysis
+- Biology-grounded computational biology and bioinformatics
+- Human disease mechanisms and molecular interpretation
+- Chemistry, biochemistry, molecular biology, and experimental disease biology
+- Biostatistics, cohort analysis, confounder-aware modeling, and quantitative interpretation
+- Large-scale NGS, metagenomics, metatranscriptomics, and multi-omics integration
+- Molecular signature discovery, biomarker analysis, and patient stratification
 - Statistical modeling, machine learning, feature selection, and interpretable biological modeling
-- Molecular biology, disease mechanisms, host-microbiome interactions, and pathway-level interpretation
 - Reproducible workflows, data quality control, documentation, and scientific visualization
 - Cross-functional collaboration with experimental, clinical, computational, and data science teams
-- Mentoring, scientific communication, and end-to-end ownership of computational workstreams
