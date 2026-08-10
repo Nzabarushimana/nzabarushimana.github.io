@@ -9,7 +9,6 @@ title: Home
   </div>
 
   <div class="hero-text">
-    <h1>Etienne Nzabarushimana, PhD, MPH</h1>
 
     <p>
       I am a computational biologist and bioinformatics scientist with 10+ years of experience translating complex molecular, clinical, and high-dimensional biological datasets into interpretable scientific insight.
