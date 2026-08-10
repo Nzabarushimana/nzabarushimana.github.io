@@ -15,6 +15,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 16px;
 }
 
 body {
@@ -22,7 +23,8 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   color: var(--text);
   background: var(--bg);
-  line-height: 1.6;
+  line-height: 1.65;
+  font-size: 1rem;
 }
 
 header,
@@ -40,15 +42,17 @@ footer {
 
 .site-title {
   margin: 0;
-  font-size: 2.1rem;
+  font-size: 2rem;
   line-height: 1.15;
   letter-spacing: -0.02em;
+  font-weight: 700;
 }
 
 .site-tagline {
   margin: 8px 0 18px;
   color: var(--muted);
-  font-size: 1.05rem;
+  font-size: 1rem;
+  line-height: 1.45;
 }
 
 nav {
@@ -61,6 +65,7 @@ nav {
 nav a {
   color: var(--accent);
   text-decoration: none;
+  font-size: 0.98rem;
   font-weight: 600;
 }
 
@@ -79,26 +84,42 @@ h1,
 h2,
 h3 {
   line-height: 1.25;
+  color: var(--text);
 }
 
 h1 {
   font-size: 2rem;
-  margin-top: 0;
-  letter-spacing: -0.015em;
+  margin: 0 0 0.65rem;
+  letter-spacing: -0.02em;
 }
 
 h2 {
-  margin-top: 2rem;
+  font-size: 1.45rem;
+  margin-top: 2.1rem;
+  margin-bottom: 0.85rem;
   border-bottom: 1px solid var(--border);
-  padding-bottom: 0.25rem;
+  padding-bottom: 0.3rem;
+  letter-spacing: -0.01em;
 }
 
 h3 {
-  margin-bottom: 0.35rem;
+  font-size: 1.08rem;
+  margin-top: 0;
+  margin-bottom: 0.45rem;
 }
 
 p {
   margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+ul {
+  margin-top: 0.4rem;
+  padding-left: 1.25rem;
+}
+
+li {
+  margin-bottom: 0.35rem;
 }
 
 a {
@@ -118,7 +139,7 @@ a:focus {
   border: 1px solid var(--border);
   padding: 28px;
   border-radius: 12px;
-  margin-bottom: 28px;
+  margin-bottom: 30px;
 }
 
 .hero-photo {
@@ -140,21 +161,19 @@ a:focus {
   min-width: 0;
 }
 
-.hero h1 {
-  margin-top: 0;
-  margin-bottom: 10px;
+.hero-text h1 {
+  margin-bottom: 0.2rem;
+}
+
+.hero-subtitle {
+  color: var(--accent);
+  font-size: 1.08rem;
+  font-weight: 650;
+  margin-bottom: 1rem;
 }
 
 .hero p:last-child {
   margin-bottom: 0;
-}
-
-.callout {
-  border-left: 4px solid var(--accent);
-  background: var(--soft);
-  padding: 14px 18px;
-  margin: 20px 0;
-  border-radius: 0 8px 8px 0;
 }
 
 .card-grid {
@@ -216,19 +235,27 @@ footer {
   }
 
   .site-title {
-    font-size: 1.6rem;
+    font-size: 1.55rem;
   }
 
   .site-tagline {
-    font-size: 1rem;
+    font-size: 0.98rem;
   }
 
   nav {
     gap: 10px;
   }
 
+  nav a {
+    font-size: 0.95rem;
+  }
+
   h1 {
     font-size: 1.65rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
   }
 
   .hero {
