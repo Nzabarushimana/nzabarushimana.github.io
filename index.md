@@ -44,7 +44,7 @@ title: Home
 <div class="card">
   <h3>NGS Study Design &amp; Multi-Omics Integration</h3>
   <p>
-    End-to-end NGS study design, analysis, and integration across genomic, transcriptomic, metagenomic, metatranscriptomic, viral, functional, metabolomics, and clinical cohort datasets to identify disease-associated molecular patterns and biologically interpretable signals.
+   End-to-end NGS study design, analysis, and multi-omics integration to identify disease-associated molecular patterns and biologically interpretable signals across human cohort datasets.
   </p>
 </div>
 
