@@ -25,7 +25,7 @@ description: Computational biologist specializing in multi-omics, bioinformatics
     </p>
 
     <p>
-      <a href="{{ '/selected-projects/' | relative_url }}"><strong>View Selected Projects</strong></a>
+      <a href="{{ '/selected-projects/' | relative_url }}"><strong>View Projects</strong></a>
       &nbsp;&middot;&nbsp;
       <a href="{{ '/publications/' | relative_url }}">Publications</a>
       &nbsp;&middot;&nbsp;
@@ -118,4 +118,4 @@ description: Computational biologist specializing in multi-omics, bioinformatics
 
 I am interested in computational biology, bioinformatics, and translational data-science opportunities involving multi-omics research, biomarker and molecular-signature development, disease-mechanism analysis, patient stratification, and reproducible scientific computing.
 
-[View Selected Projects]({{ '/selected-projects/' | relative_url }}) &nbsp;&middot;&nbsp; [Contact Me]({{ '/contact/' | relative_url }})
+[View Projects]({{ '/selected-projects/' | relative_url }}) &nbsp;&middot;&nbsp; [Contact Me]({{ '/contact/' | relative_url }})
