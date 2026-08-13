@@ -19,7 +19,7 @@ Boston, Massachusetts
 
 - **Email:** [enzabaru@gmail.com](mailto:enzabaru@gmail.com)
 - **LinkedIn:** [linkedin.com/in/enzabaru](https://www.linkedin.com/in/enzabaru)
-- **ORCID:** [0000-0003-0712-1211](https://orcid.org/0000-0003-0712-1211)
+
 - **Academic profile:** [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/display/Person/209693)
 - **R&eacute;sum&eacute;:** [Download PDF]({{ '/assets/Etienne_Nzabarushimana_Resume.pdf' | relative_url }})
 
