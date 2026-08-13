@@ -9,7 +9,7 @@ permalink: /publications/
 
 My publications span computational method development, human-cohort multi-omics, microbiome-based disease modeling, genome analysis, and molecular mechanisms of disease.
 
-[ORCID](https://orcid.org/0000-0003-0712-1211) &nbsp;&middot;&nbsp; [Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/209693) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/enzabaru)
+[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/209693) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/enzabaru)
 
 ## Featured Publications
 
