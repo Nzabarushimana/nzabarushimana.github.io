@@ -1,84 +1,121 @@
 ---
 layout: default
 title: Home
+description: Computational biologist specializing in multi-omics, bioinformatics, machine learning, biomarker discovery, and translational disease research.
 ---
 
 <div class="hero">
   <div class="hero-photo">
-    <img src="assets/img/profile.jpg" alt="Etienne Nzabarushimana">
+    <img src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Portrait of Etienne Nzabarushimana">
   </div>
 
   <div class="hero-text">
+    <h1>Translating Multi-Omics Data into Biomarkers and Disease Insights</h1>
+
     <p>
-      I am a computational biologist and bioinformatics scientist trained across chemistry, molecular biology, biostatistics, and computational biology.
+      <strong>Computational Biologist &middot; Bioinformatics Scientist &middot; PhD, MPH</strong>
     </p>
 
     <p>
-      My work focuses on using molecular and clinical data to understand disease mechanisms, identify biomarkers, and generate interpretable hypotheses for translational research.
+      I develop reproducible computational methods and interpretable models for complex molecular and clinical data. My work spans multi-omics integration, biomarker discovery, disease classification, host&ndash;microbiome biology, and translational research.
     </p>
 
     <p>
-      My work integrates experimental context, end-to-end NGS study design, multi-omics analysis, statistical modeling, computational method development, and reproducible computing to generate interpretable insight into disease biology.
+      With training across molecular biology, chemistry, biostatistics, and computational biology, I connect analytical results to experimental context, biological mechanisms, and clinically relevant questions.
+    </p>
+
+    <p>
+      <a href="{{ '/selected-projects/' | relative_url }}"><strong>View Selected Projects</strong></a>
+      &nbsp;&middot;&nbsp;
+      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      &nbsp;&middot;&nbsp;
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
     </p>
   </div>
 </div>
 
-## Scientific & Computational Expertise
+## Selected Impact
 
 <div class="card-grid">
 
   <div class="card">
-    <h3>Molecular Mechanisms &amp; Disease Biology</h3>
+    <h3>Interpretable Biomarker Modeling</h3>
     <p>
-      Strong foundation in molecular biology, with experience interpreting molecular data in the context of pathways, gene regulation, cellular function, biochemical processes, evolution, and disease mechanisms.
+      Developed a functionally informed microbiome-profiling and machine-learning approach across 10 published clinical studies. A compact 21-species signature achieved an average AUC of 0.951 in fivefold cross-validation for distinguishing active <em>Clostridioides difficile</em> infection from controls.
+    </p>
+    <p>
+      <a href="https://doi.org/10.1080/19490976.2022.2135963">Read the publication</a>
     </p>
   </div>
 
-  <div class="card">
-    <h3>Molecular Assays &amp; Experimental Design</h3>
-    <p>
-    Experience with study design, sample handling, biochemical assays, biological controls, and technical variability in molecular data generation and interpretation.
-    </p>
-  </div>
-
-<div class="card">
-  <h3>NGS Study Design &amp; Multi-Omics Integration</h3>
-  <p>
-   End-to-end NGS study design, analysis, and multi-omics integration to identify disease-associated molecular patterns and biologically interpretable signals across human cohort datasets.
-  </p>
-</div>
-
-<div class="card">
-  <h3>Statistical Modeling &amp; Machine Learning</h3>
-  <p>
-  Predictive and statistical modeling for biological data, spanning problem formulation, feature representation, classification, biomarker scoring, validation, and biological interpretation.
-  </p>
-</div>
   <div class="card">
     <h3>Computational Method Development</h3>
     <p>
-      Development of computational methods, analysis frameworks, and reproducible scientific workflows that turn complex biological and multi-omics data into reliable, interpretable, actionable insights.
+      Co-developed WAAFLE, an open-source workflow for detecting putative lateral gene transfer events directly from assembled metagenomic data. The work resulted in a co-lead-author publication in <em>Nature Microbiology</em>.
     </p>
-  </div>
-<div class="card">
-  <h3>Large Cohorts &amp; Clinical Study Evaluation</h3>
-  <p>
-    Analysis of large human cohorts and clinical study datasets to evaluate molecular patterns, disease associations, biomarker signals, patient subgroups, treatment-relevant features, and sources of biological and technical variability.
-  </p>
-</div>
-  <div class="card">
-    <h3>Biomarker Discovery &amp; Patient Stratification</h3>
     <p>
-      Connecting molecular signatures, biomarkers, patient-relevant patterns, and disease-associated signals to biological and clinical meaning.
+      <a href="https://doi.org/10.1038/s41564-024-01881-w">Publication</a>
+      &nbsp;&middot;&nbsp;
+      <a href="https://github.com/biobakery/waafle">Software</a>
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Translational Multi-Omics</h3>
+    <p>
+      Contributed to human-cohort studies integrating metagenomic, metatranscriptomic, viral, metabolomic, and clinical data to identify disease-associated molecular patterns in metabolic and inflammatory gastrointestinal diseases.
+    </p>
+    <p>
+      <a href="{{ '/selected-projects/' | relative_url }}">Explore the projects</a>
     </p>
   </div>
 
 </div>
 
-## Highlights
+## What I Bring to a Team
 
-- 10+ years of experience across molecular biology, biostatistics, bioinformatics, and computational biology
-- Ph.D. training in Bioinformatics and Computational Biology
-- Postdoctoral research in translational computational biology, multi-omics integration, and molecular signature discovery
-- First-author and co-author publications in Gut Microbes, Nature Microbiology, Nature Metabolism, Nature Communications, and Gastroenterology
-- Experience collaborating with clinical, experimental, epidemiologic, and computational research teams
+<div class="card-grid">
+
+  <div class="card">
+    <h3>Biological Interpretation</h3>
+    <p>
+      Connecting statistical and computational findings to pathways, molecular mechanisms, assay context, and disease biology.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Rigorous Quantitative Analysis</h3>
+    <p>
+      Designing confounder-aware analyses and interpretable predictive models with careful validation, transparent assumptions, and appropriate scientific limitations.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>End-to-End Bioinformatics</h3>
+    <p>
+      Working from study design and data quality control through workflow development, multi-omic analysis, visualization, interpretation, and publication.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Cross-Functional Collaboration</h3>
+    <p>
+      Partnering with computational scientists, molecular biologists, clinicians, and epidemiologists to refine questions, troubleshoot data, and communicate actionable findings.
+    </p>
+  </div>
+
+</div>
+
+## At a Glance
+
+- 10+ years of experience spanning molecular biology, biostatistics, bioinformatics, and computational biology
+- PhD in Bioinformatics and Computational Biology, with graduate training in biostatistics and an MPH
+- Postdoctoral research in translational computational biology, multi-omics integration, and molecular-signature discovery
+- First-author, co-lead-author, and collaborative publications in *Gut Microbes*, *Nature Microbiology*, *Nature Metabolism*, *Nature Communications*, and *Gastroenterology*
+- Experience collaborating across clinical, experimental, epidemiologic, and computational research teams
+
+## Professional Focus
+
+I am interested in computational biology, bioinformatics, and translational data-science opportunities involving multi-omics research, biomarker and molecular-signature development, disease-mechanism analysis, patient stratification, and reproducible scientific computing.
+
+[View Selected Projects]({{ '/selected-projects/' | relative_url }}) &nbsp;&middot;&nbsp; [Contact Me]({{ '/contact/' | relative_url }})
