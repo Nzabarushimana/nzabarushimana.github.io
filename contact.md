@@ -19,7 +19,6 @@ Boston, Massachusetts
 
 - **Email:** [enzabaru@gmail.com](mailto:enzabaru@gmail.com)
 - **LinkedIn:** [linkedin.com/in/enzabaru](https://www.linkedin.com/in/enzabaru)
-
 - **Academic profile:** [Harvard Catalyst](https://connects.catalyst.harvard.edu/Profiles/display/Person/209693)
 - **R&eacute;sum&eacute;:** [Download PDF]({{ '/assets/Etienne_Nzabarushimana_Resume.pdf' | relative_url }})
 
