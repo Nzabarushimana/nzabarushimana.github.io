@@ -1,29 +1,95 @@
 ---
 layout: default
 title: About
+description: Background, scientific approach, technical capabilities, and leadership experience of computational biologist Etienne Nzabarushimana.
 permalink: /about/
 ---
 
 # About
 
-I am a bioinformatics scientist and computational biologist developing integrative computational methods and models to elucidate how genomic, molecular, microbial, and cellular systems interact to shape human health and disease. My research combines multi-omic integration, machine learning, and network-based modeling to identify biomarkers, molecular signatures, disease mechanisms, and therapeutic hypotheses across large-scale clinical cohorts and multi-modal high-throughput molecular data.
+I am a computational biologist and bioinformatics scientist trained across molecular biology, chemistry, biostatistics, and computational biology. I develop and apply quantitative approaches to understand how genomic, microbial, molecular, and clinical factors interact in human health and disease.
 
-My goal is to translate computational discoveries into precision diagnostics, patient stratification strategies, target-relevant biological insights, and testable mechanisms that can support therapeutic development and improve patient outcomes.
+My work focuses on turning high-dimensional biological data into findings that are reproducible, interpretable, and useful for translational research. I have experience in multi-omics integration, statistical and machine-learning models, clinical-cohort analysis, biomarker discovery, disease-state classification, and computational method development.
+
+My earlier experimental research in molecular biology, epigenetics, radiation biology, cancer-risk biology, inflammatory signaling, and molecular assays gives me a practical understanding of how biological data are generated. That foundation helps me recognize experimental and technical variability, select appropriate analytical strategies, and connect computational results back to mechanism.
+
+## Scientific Approach
+
+<div class="card-grid">
+
+  <div class="card">
+    <h3>Start with the Scientific Question</h3>
+    <p>
+      I begin by defining the biological or clinical question and the decision the analysis needs to inform. That keeps data selection, modeling choices, validation strategies, and outputs aligned with the underlying scientific objective.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Build for Rigor and Reuse</h3>
+    <p>
+     I design analyses with quality control, explicit assumptions, appropriate handling of confounders, documented code, and reproducible workflows. The goal is not only to obtain a result, but to make it robust, interpretable, and easy for collaborators to review and extend.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Translate Results into Biological Insight</h3>
+    <p>
+      I evaluate findings in the context of biological plausibility, pathways, mechanisms, cohort characteristics, and study limitations. I aim to distinguish statistically interesting signals from findings that are robust enough to guide experimental or translational follow-up.
+    </p>
+  </div>
+
+</div>
 
 ## Scientific Background
 
-I am Ph.D.-trained in bioinformatics and computational biology, with graduate training in biostatistics and postdoctoral research in translational computational biology, multi-omics integration, molecular signature discovery, and computational method development. My work has focused on deriving interpretable biological insight from large-scale NGS, multi-omic, clinical cohort, and high-dimensional biological datasets.
+I hold a PhD in Bioinformatics and Computational Biology, graduate training in biostatistics, and an MPH. My postdoctoral research across the Massachusetts General Hospital, Harvard Medical School, and Harvard T.H. Chan School of Public Health research environments has centered on translational computational biology, human-cohort multi-omics, molecular-signature discovery, and reproducible method development.
 
-My earlier bench-based research in molecular biology, epigenetics, cancer-risk biology, radiation biology, inflammatory signaling, and disease mechanisms gave me a practical understanding of biological data generation, experimental design, assay variability, and mechanistic interpretation. This foundation helps me connect computational findings back to biology and communicate results effectively across computational, experimental, and clinical teams.
+Across my research, I have integrated diverse molecular and clinical data including metagenomic, metatranscriptomic, viral, metabolomic, genomic, and patient-level clinical data to investigate disease mechanisms, identify molecular signatures, and support translational research.
 
-## Current Professional Focus
+## Core Capabilities
 
-I am interested in computational biology and bioinformatics roles where I can contribute to:
+<div class="card-grid">
 
-- Translational biology and drug discovery
-- Multi-omics and high-dimensional data integration
-- Biomarker discovery and molecular signature development
-- Patient stratification and disease-state classification
-- Statistical modeling, machine learning, and interpretable analysis
-- Reproducible workflow development and scalable bioinformatics
-- Cross-functional scientific collaboration and mentoring
+  <div class="card">
+    <h3>Computational Biology &amp; Bioinformatics</h3>
+    <p>
+      Multi-omics integration; metagenomics; metatranscriptomics; functional and pathway profiling; clinical-cohort analysis; molecular-signature discovery; biomarker analysis; NGS study design and interpretation.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Statistical Modeling &amp; Machine Learning</h3>
+    <p>
+      Classification; feature selection; logistic and penalized regression; model evaluation; cross-validation; cohort stratification; confounder-aware analysis; interpretable biological modeling.
+    </p>
+  </div>
+
+<div class="card">
+  <h3>Programming, Data Science &amp; Computational Workflows</h3>
+  <p>
+    Python; R; Bash; Linux/Unix; Git; Bioconductor; Biopython; scientific Python; statistical computing; machine learning; large-scale omics data processing; data wrangling and visualization; bioinformatics pipeline development; reproducible workflow development; workflow automation; software and method development; version-controlled analysis; high-performance computing (HPC); parallel and batch computing; reproducible notebooks; scalable analysis of genomic, transcriptomic, metagenomic, metabolomic, and clinical datasets.
+  </p>
+</div>
+
+  <div class="card">
+    <h3>Biological &amp; Translational Expertise</h3>
+    <p>
+      Molecular biology; biochemistry; host&ndash;microbiome interactions; inflammatory and metabolic disease biology; cancer-risk biology; epigenetics; experimental design; assay variability; mechanistic interpretation.
+    </p>
+  </div>
+
+</div>
+
+## Leadership, Teaching &amp; Service
+
+- Instructor, **Microbial Community Multi-omics Using the bioBakery**, Harvard University, 2025
+- Guest lecturer, **The Microbiota&ndash;Gut&ndash;Brain Axis**, Harvard University, 2024
+- Mentor to postdoctoral fellows, interns, and junior researchers in bioinformatics, reproducible workflow development, quality control, and technical troubleshooting, 2022&ndash;2026
+- Instructor of Record and Associate Instructor, **Data Science in Practice**, Indiana University, 2019&ndash;2021; mentored more than 60 students on applied data-science projects
+- Ad hoc reviewer for *BMC Bioinformatics*, *Microbiome*, *Gut Microbes*, *Bioinformatics*, *Cell Systems*, *Frontiers in Molecular Biosciences*, and *NAR Genomics and Bioinformatics*
+
+## Professional Focus
+
+I am interested in computational biology, bioinformatics, and translational data-science roles where I can contribute to multi-omics research, biomarker and molecular-signature development, disease-mechanism analysis, patient stratification, and scalable scientific workflows.
+
+[View Projects]({{ '/selected-projects/' | relative_url }}) &nbsp;&middot;&nbsp; [View Publications]({{ '/publications/' | relative_url }}) &nbsp;&middot;&nbsp; [Contact Me]({{ '/contact/' | relative_url }})
