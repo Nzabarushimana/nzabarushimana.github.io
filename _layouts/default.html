@@ -3,27 +3,47 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+
+  {% assign page_description = page.description | default: site.description %}
+
+  <title>{% if page.title == "Home" %}{{ site.title | escape }}{% else %}{{ page.title | escape }} | {{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page_description | strip_html | normalize_whitespace | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{% if page.title == 'Home' %}{{ site.title | escape }}{% else %}{{ page.title | escape }} | {{ site.title | escape }}{% endif %}">
+  <meta property="og:description" content="{{ page_description | strip_html | normalize_whitespace | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
 <body>
   <header class="site-header">
     <div>
-      <p class="site-title">{{ site.title }}</p>
+      <p class="site-title">
+        <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      </p>
+
       <p class="site-tagline">{{ site.description }}</p>
-      <nav aria-label="Main navigation">
-        {% for item in site.nav %}
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        {% endfor %}
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/about/' | relative_url }}"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a>
+        <a href="{{ '/selected-projects/' | relative_url }}"{% if page.url == '/selected-projects/' %} aria-current="page"{% endif %}>Projects</a>
+        <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
+        <a href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
+        <a class="resume-link" href="{{ '/assets/Etienne_Nzabarushimana_Resume.pdf' | relative_url }}" download>Download R&eacute;sum&eacute;</a>
       </nav>
     </div>
   </header>
-  <main>
+
+  <main id="main-content">
     {{ content }}
   </main>
+
   <footer>
-    <p>© {{ site.time | date: '%Y' }} Etienne Nzabarushimana. Computational biology, bioinformatics, multi-omics, and translational biology.</p>
+    <p>&copy; {{ site.time | date: '%Y' }} Etienne Nzabarushimana. Computational biology, bioinformatics, multi-omics, and translational biology.</p>
   </footer>
 </body>
 </html>
