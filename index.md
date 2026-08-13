@@ -10,7 +10,7 @@ description: Computational biologist specializing in multi-omics, bioinformatics
   </div>
 
   <div class="hero-text">
-    <h1>Multi-Omics for Biomarker Discovery and Disease Biology</h1>
+    <h2>Multi-Omics for Biomarker Discovery and Disease Biology</h2>
 
     <p>
       <strong>Computational Biologist &middot; Bioinformatics Scientist &middot; PhD, MPH</strong>
